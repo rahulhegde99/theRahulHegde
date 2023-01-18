@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Rahul Hegde</title>
+    <link href="https://rahulhegde99.github.io/theRahulHegde/feed.xml" rel="self" />
+    <link href="https://rahulhegde99.github.io/theRahulHegde" />
+    <updated>2023-01-18T23:42:59+05:30</updated>
+    <author>
+        <name>Rahul Hegde</name>
+    </author>
+    <id>https://rahulhegde99.github.io/theRahulHegde</id>
+
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>Rahul Hegde</name>
+        </author>
+        <link href="https://rahulhegde99.github.io/theRahulHegde/hello-world/"/>
+        <id>https://rahulhegde99.github.io/theRahulHegde/hello-world/</id>
+        <media:content url="https://rahulhegde99.github.io/theRahulHegde/media/posts/1/Himalayas-2.png" medium="image" />
+
+        <updated>2023-01-18T23:42:59+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rahulhegde99.github.io/theRahulHegde/media/posts/1/Himalayas-2.png" alt="Himalayas" />
+                    This is the first blog for this and I don't know what to write
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rahulhegde99.github.io/theRahulHegde/media/posts/1/Himalayas-2.png" class="type:primaryImage" alt="Himalayas" /></p>
+                <p>This is the first blog for this and I don't know what to write</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
